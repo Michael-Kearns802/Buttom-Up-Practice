@@ -1,0 +1,41 @@
+.main{
+    margin-top: 50px;
+}
+
+
+.button-1{
+    background-color: white;
+    border-color: teal;
+    border-style: solid; 
+    color: teal; 
+    padding: 2px 40px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    cursor: pointer; 
+    border-radius: 20px;
+}
+
+.button-2{
+
+    height: 35px;
+    width: 35px;
+    background-color: teal;
+    border-color: teal;
+    border-style: solid; 
+    color: white;
+    border-radius: 50%;
+    display: inline-block;
+    margin-top: 10px;
+}
+
+.button-3{
+    margin-top: 10px;
+    background-color: rgb(92, 92, 179); 
+    color: white; 
+    padding: 7px 10px; 
+    display: block;
+    width: 150px; 
+    box-shadow: 4px 2px 2px black;
+}
